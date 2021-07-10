@@ -258,7 +258,7 @@ body{
   font-family: var(--body-font);
   font-size: var(--normal-font-size);
   /* background-color: var(--body-color); */
-  background-image: url("E:/TSF/wallhaven.png");
+  background-image: url("E:\TSF\wallhaven.png");
   background-position: center;
 
   background-size: cover;
